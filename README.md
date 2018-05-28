@@ -1,2 +1,2 @@
 # hello-world
-I'm learning python, C# & Unity, ML & DL. I'm about to start AI saturdays MOOC and want to know GitHub better and bla bla bla..
+I'm learning python, ML, Data Science as well as C# & Unity. I'm about to make my projects say "Hello world"!
